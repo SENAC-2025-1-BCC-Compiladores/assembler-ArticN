@@ -1,0 +1,10 @@
+.DATA
+90 20 ; comentario
+91 21
+
+
+.CODE
+LDA 90
+ADD 91 ; comentario
+STA 92
+HLT
