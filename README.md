@@ -46,7 +46,7 @@ O projeto é composto pelos seguintes arquivos:
 
 1. Clone o repositório ou baixe os arquivos do projeto.
 2. Navegue até o diretório do projeto.
-3. Rode os comandos "gcc -o assembler Assembler.c lexer.c parser.c -Wall" e "./assembler teste.txt output.mem"
+3. Rode os comandos "gcc -o assembler Assembler.c lexer.c parser.c -Wall" e "./assembler teste.txt saida.mem"
 
 ## Limitações
 1. O formato to test_code deve ser mantido
